@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.gradient {
+  background: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0));
+}
+.intro-gradient {
+  background: linear-gradient(
+    133.74deg,
+    rgb(122, 0, 204) -19.91%,
+    #f72c87 78.85%
+  );
+}
